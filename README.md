@@ -1,5 +1,5 @@
 # Music Application
-An application that let's you upload, store, and play all of your music from the cloud.
+An application that let's you upload, store, and play all of your music from the cloud. It's fun to try.
 
 ## How does it work?
 To get started, first create a new album. When adding an album cover logo, it's best to have a resolution of at least 512x512 and to use common image formats such as JPG, JPEG, or PNG.
